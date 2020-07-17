@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "ignore",
+      "type": "com.example.demo.ExampleRest",
+      "sourceType": "com.example.demo.ExampleRest"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
